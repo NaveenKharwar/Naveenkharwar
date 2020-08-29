@@ -6,16 +6,10 @@ I am a Web Developer, who usually works with front-end technologies and CMSs’.
 
 
 #### Find me on the internet: 🌎
-👉 [Instagram](https://www.instagram.com/naveenkharwar.dev)
-
-👉 [Twitter](https://twitter.com/naveenkharwar0)
-
-👉 [Facebook](https://www.facebook.com/naveenkharwar.dev)
-
-👉 [Dev.to](https://dev.to/naveenkharwar)
-
-👉 [Github](https://github.com/NaveenKharwar)
-
-👉 [My Internet Space](https://www.naveenkharwar.dev)
-
-👉 [WayOutWorks](https://www.wayoutworks.in)
+- 👉 [Instagram](https://www.instagram.com/naveenkharwar.dev)
+- 👉 [Twitter](https://twitter.com/naveenkharwar0)
+- 👉 [Facebook](https://www.facebook.com/naveenkharwar.dev)
+- 👉 [Dev.to](https://dev.to/naveenkharwar)
+- 👉 [Github](https://github.com/NaveenKharwar)
+- 👉 [My Internet Space](https://www.naveenkharwar.dev)
+- 👉 [WayOutWorks](https://www.wayoutworks.in)
