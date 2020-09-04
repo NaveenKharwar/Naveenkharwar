@@ -6,6 +6,8 @@ I am a Web Developer, who usually works with front-end technologies and CMSs’.
 
 [![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=naveenkharwar)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkharwar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Find me on the internet: 🌎
 - 👉 [Instagram](https://www.instagram.com/naveenkharwar.dev)
 - 👉 [Twitter](https://twitter.com/naveenkharwar0)
