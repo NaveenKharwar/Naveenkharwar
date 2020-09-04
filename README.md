@@ -9,10 +9,5 @@ I am a Web Developer, who usually works with front-end technologies and CMSs’.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkharwar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Find me on the internet: 🌎
-- 👉 [Instagram](https://www.instagram.com/naveenkharwar.dev)
-- 👉 [Twitter](https://twitter.com/naveenkharwar0)
-- 👉 [Facebook](https://www.facebook.com/naveenkharwar.dev)
-- 👉 [Dev.to](https://dev.to/naveenkharwar)
-- 👉 [Github](https://github.com/NaveenKharwar)
-- 👉 [My Internet Space](https://www.naveenkharwar.dev)
-- 👉 [WayOutWorks](https://www.wayoutworks.in)
+[Instagram](https://www.instagram.com/naveenkharwar.dev), [Twitter](https://twitter.com/naveenkharwar0), [Facebook](https://www.facebook.com/naveenkharwar.dev), [Dev.to](https://dev.to/naveenkharwar), [Github](https://github.com/NaveenKharwar), [My Internet Space](https://www.naveenkharwar.dev), [WayOutWorks](https://www.wayoutworks.in)
+
