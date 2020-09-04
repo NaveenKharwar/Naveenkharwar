@@ -4,6 +4,7 @@ I am WordPress Front End Developer & Contributor.
 
 I am a Web Developer, who usually works with front-end technologies and CMSs’. I have developed several projects using WordPress and GatsbyJS. I like to contribute to Open Source Technologies And WordPress stuffs, it helps me to stay productive as well as collaborative. Apart from this, I love to participate in technological events, such as WordCamps.
 
+[![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=naveenkharwar)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Find me on the internet: 🌎
 - 👉 [Instagram](https://www.instagram.com/naveenkharwar.dev)
