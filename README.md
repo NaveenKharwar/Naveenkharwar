@@ -15,7 +15,6 @@ I am a Web Developer, who usually works with front-end technologies and CMSs’.
 <a href="https://dev.to/naveenkharwar"><img width="30" src="https://res.cloudinary.com/practicaldev/image/fetch/s--t7tVouP9--/c_limit,f_png,fl_progressive,q_80,w_192/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" /></a>
 <a href="https://github.com/NaveenKharwar"><img width="30" src="https://github.githubassets.com/apple-touch-icon-180x180.png" /></a>
 <a href="https://www.naveenkharwar.dev"><img width="30" src="https://naveenkharwar.dev/wp-content/uploads/2020/05/cropped-circle-cropped-192x192.png" /></a>
-<a href="https://www.wayoutworks.in"><img width="30" src="https://i0.wp.com/wayoutworks.in/wp-content/uploads/2020/03/cropped-wow-blue192.png?fit=192%2C192&ssl=1" /></a>
 
 
 <h1 align='center'><i>Stay awesome!</i></h1>
