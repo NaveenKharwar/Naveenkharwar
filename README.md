@@ -1,21 +1,20 @@
-#### Hi there 👋
-I am WordPress Front End Developer & Contributor.
+Naveen Kharwar - Powered by fun
 ---
+<img src="https://media.giphy.com/media/3o7abooVPgeGpknXpu/source.gif" width="350"/>
 
-I am a Web Developer, who usually works with front-end technologies and CMSs’. I have developed several projects using WordPress and GatsbyJS. I like to contribute to Open Source Technologies And WordPress stuffs, it helps me to stay productive as well as collaborative. Apart from this, I love to participate in technological events, such as WordCamps.
+> I'm a WordPress frontend developer & contributor 👋.
 
-[![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=naveenkharwar)](https://github.com/anuraghazra/github-readme-stats)
+#### 🎬 Origin Story:
+Blogger ⇾ Designer ⇾ Developer ⇾ Technical Support Specialist
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkharwar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+#### 🏆 WordPress Contribution:
+<img src="https://user-images.githubusercontent.com/37496983/122472357-1f50a400-cfde-11eb-954f-8a70a5c54cb5.png" width="300"/>
 
-#### Find me on the internet: 🌎
-<a href="https://www.instagram.com/naveenkharwar.dev"><img width="30" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" /></a>
-<a href="https://twitter.com/naveenkharwar0"><img width="30" src="https://abs.twimg.com/responsive-web/client-web-legacy/icon-ios.8ea219d5.png" /></a>
-<a href="https://www.facebook.com/naveenkharwar.dev"><img width="30" src="https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/a36n03MSzp1.png" /></a>
-<a href="https://dev.to/naveenkharwar"><img width="30" src="https://res.cloudinary.com/practicaldev/image/fetch/s--t7tVouP9--/c_limit,f_png,fl_progressive,q_80,w_192/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" /></a>
-<a href="https://github.com/NaveenKharwar"><img width="30" src="https://github.githubassets.com/apple-touch-icon-180x180.png" /></a>
-<a href="https://www.naveenkharwar.dev"><img width="30" src="https://naveenkharwar.dev/wp-content/uploads/2020/05/cropped-circle-cropped-192x192.png" /></a>
+#### 🤝 How to reach me?
+- <a href="https://www.instagram.com/naveenkharwar.extra/?hl=en"> IG/@naveenkharwar.extra </a>    
+- <a href="https://twitter.com/naveenkharwar21"> TW/@naveenkharwar21 </a>
+- <a href="https://www.linkedin.com/in/naveenkharwar/"> IN/@naveenkharwar </a>
 
-
-<h1 align='center'><i>Stay awesome!</i></h1>
-
+---
+<p align="center" width="100%"><img src="https://media.giphy.com/media/4jUv5WgsH8waA/source.gif" width="350" align="center"/></p>
+<p align="center"><i>Have a great day! ✨</i></p>
