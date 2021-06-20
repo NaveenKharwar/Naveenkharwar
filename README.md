@@ -1,8 +1,8 @@
-Naveen Kharwar - Powered by fun
+Naveen Kharwar - Powered by fun 🕺🏽
 ---
-<img src="https://user-images.githubusercontent.com/37496983/122683634-2c5bd600-d21e-11eb-8eba-388af214be9d.png" width="400" align="right"/>
+<img src="https://user-images.githubusercontent.com/37496983/122683634-2c5bd600-d21e-11eb-8eba-388af214be9d.png" alt="Naveen Kharwar" width="400" align="right"/>
 
-> I'm a WordPress frontend developer & contributor 👋.
+I'm a [WordPress](https://profiles.wordpress.org/naveenkharwar/) Front-end Developer & Contributor. Currently, <b>Support Ninja</b> at [@awesomemotive](https://github.com/awesomemotive).
 
 #### 🎬 Origin Story:
 Blogger ⇾ Designer ⇾ Developer ⇾ Technical Support Specialist
