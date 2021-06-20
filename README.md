@@ -1,6 +1,6 @@
 Naveen Kharwar - Powered by fun
 ---
-<img src="https://media.giphy.com/media/3o7abooVPgeGpknXpu/source.gif" width="350" align="right"/>
+<img src="https://user-images.githubusercontent.com/37496983/122683634-2c5bd600-d21e-11eb-8eba-388af214be9d.png" width="400" align="right"/>
 
 > I'm a WordPress frontend developer & contributor 👋.
 
@@ -15,6 +15,5 @@ Blogger ⇾ Designer ⇾ Developer ⇾ Technical Support Specialist
 - <a href="https://twitter.com/naveenkharwar21"> TW/@naveenkharwar21 </a>
 - <a href="https://www.linkedin.com/in/naveenkharwar/"> IN/@naveenkharwar </a>
 
----
-<p align="center" width="100%"><img src="https://media.giphy.com/media/4jUv5WgsH8waA/source.gif" width="350" align="center"/></p>
+
 <p align="center"><i>Have a great day! ✨</i></p>
