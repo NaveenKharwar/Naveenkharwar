@@ -1,6 +1,6 @@
 Naveen Kharwar - Powered by fun
 ---
-<img src="https://media.giphy.com/media/3o7abooVPgeGpknXpu/source.gif" width="350"/>
+<img src="https://media.giphy.com/media/3o7abooVPgeGpknXpu/source.gif" width="350" align="right"/>
 
 > I'm a WordPress frontend developer & contributor 👋.
 
