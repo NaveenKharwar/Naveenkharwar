@@ -1,8 +1,11 @@
 Naveen Kharwar - Powered by fun 🕺🏽
 ---
 
+What's up! I'm Naveen, a Senior Support Ninja for [Brainstorm Force] (https://github.com/brainstormforce), working with the amazing Astra theme. When I'm not busy solving technical issues and helping customers, you can find me nerding out over WordPress and open-source projects.
 
-I'm a [WordPress](https://profiles.wordpress.org/naveenkharwar/) Front-end Developer & Contributor. Currently, <b>Senior Support Ninja</b> for THE <i>Astra</i> theme at [Brainstorm Force](https://github.com/brainstormforce).
+I'm also a big fan of artistic movies, writing my own stories and reading books.
+
+I even love to capture the beauty of nature through photography, especially the earth. I'm always looking to learn new things and take on new challenges, so let's work together and make something amazing happen!
 
 #### 🎬 Origin Story:
 Blogger ⇾ Designer ⇾ Developer ⇾ Technical Support Specialist
