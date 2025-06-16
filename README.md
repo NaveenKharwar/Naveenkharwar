@@ -11,7 +11,7 @@ I even love to capture the beauty of nature through photography, especially the 
 Blogger ⇾ Designer ⇾ Developer ⇾ Technical Support Specialist
 
 #### 🤝 How to reach me?
-- <a href="https://x/heynaveeen"> X/@heynaveeen </a>
+- <a href="https://x.com/heynaveeen"> X/@heynaveeen </a>
 - <a href="https://www.linkedin.com/in/naveenkharwar/"> IN/@naveenkharwar </a>
 
 
